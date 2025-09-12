@@ -1,0 +1,6 @@
+@GestionTaches_HostAddress = http://localhost:5105
+
+GET {{GestionTaches_HostAddress}}/gestiontache/
+Accept: application/json
+
+###
